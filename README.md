@@ -1,2 +1,12 @@
 # Tkinter-GUI-for-TikTok-Account-Creator-Pro
-"""Tkinter GUI for TikTok Account Creator Pro"""  import tkinter as tk from tkinter import ttk, messagebox, scrolledtext import threading import json from pathlib 
+TikTok Account Creator (Mobil Api) - NEW UPDATE
+Features:
+Full Mobil ApiDevice Registration
+No Third Party Apis
+Full Requests
+Need Proxies
+High Quality Accounts (report)
+Captcha Solver
+X-Argus, X-Ladon, X-Gorgon, X-Khronos Included
+Contact: 
+@mariabosser
